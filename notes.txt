@@ -1,0 +1,1 @@
+create table recipes(id varchar(30) primary key,pid text,url text,title text,description text,ingredients text,instructions text,notes text, yields text,prep_time text,cook_time text,total_time text,tags text);
